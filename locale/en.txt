@@ -4,10 +4,11 @@
 
 ### URL
 PopupWebFrameBehaviour_BA2D5525_A8A4_6EAB_41E0_A4877E83A70E.url = http://ekatalogbibitulit.rimpangdigital.com/
-WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+PopupWebFrameBehaviour_8EDFDA4D_B359_266E_41E0_ECC8D580D9E0.url = http://ekatalogbibitulit.rimpangdigital.com/
 PopupWebFrameBehaviour_C13B1AE6_9EC8_4419_41C8_320B5D33F692.url = https://www.google.com/maps/embed?pb=!4v1647654863688!6m8!1m7!1snjehV9xUhdSGDKBqCucb0w!2m2!1d-7.818244733039676!2d110.362789449774!3f347.1065689858821!4f3.109014187068567!5f0.7820865974627469
-PopupWebFrameBehaviour_A4A32DCC_9F48_5C2A_41E1_5E4B8AFD412A.url = https://www.instagram.com/p/CbF4-LFPF8a/embed
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!4v1647654863688!6m8!1m7!1snjehV9xUhdSGDKBqCucb0w!2m2!1d-7.818244733039676!2d110.362789449774!3f347.1065689858821!4f3.109014187068567!5f0.7820865974627469
 PopupWebFrameBehaviour_8611613C_B3E6_E22E_41D1_5DF16DAFB3C6.url = https://www.instagram.com/p/CbF4-LFPF8a/embed
+PopupWebFrameBehaviour_A4A32DCC_9F48_5C2A_41E1_5E4B8AFD412A.url = https://www.instagram.com/p/CbF4-LFPF8a/embed
 PopupWebFrameBehaviour_8434AB24_B3DB_67DE_41A8_B56DDD104319.url = //www.youtube.com/embed/zHzIq_p9mi0
 PopupWebFrameBehaviour_A1C1644A_9FB8_4C29_41DE_2B2D2DB3E1D7.url = //www.youtube.com/embed/zHzIq_p9mi0
 
@@ -43,20 +44,20 @@ video_91B70C41_9D2D_B9BA_41DC_6482D2E80674.path = null
 video_91B540B6_9D2E_4AD9_41DB_C9845434123F.path = null
 video_B7F2E8E6_A78A_D7E9_41D0_97DE66CC2B42.path = null
 video_C1FB9644_9F58_4C1A_41D5_D0B6ED44BCBD.path = null
-videolevel_8888D4FC_B3A7_222E_41E6_2523F5F1417F.url = media/video_91895379_9D2D_CE4B_41D0_2C7AF2FB20CB_en.mp4
-videolevel_8888D4FC_B3A7_222E_41E6_2523F5F1417F.posterURL = media/video_91895379_9D2D_CE4B_41D0_2C7AF2FB20CB_poster_en.jpg
-videolevel_88947594_B3A7_22FE_41D1_38AA97771E8D.url = media/video_91B540B6_9D2E_4AD9_41DB_C9845434123F_en.mp4
-videolevel_88947594_B3A7_22FE_41D1_38AA97771E8D.posterURL = media/video_91B540B6_9D2E_4AD9_41DB_C9845434123F_poster_en.jpg
-videolevel_88960562_B3A7_225A_41D9_1181D9E06913.url = media/video_91B70C41_9D2D_B9BA_41DC_6482D2E80674_en.mp4
-videolevel_88960562_B3A7_225A_41D9_1181D9E06913.posterURL = media/video_91B70C41_9D2D_B9BA_41DC_6482D2E80674_poster_en.jpg
-videolevel_8897952F_B3A7_222A_41B8_BC8D4ABCD1B5.url = media/video_91B7277F_9D2D_B646_41E2_11968B8B7452_en.mp4
-videolevel_8897952F_B3A7_222A_41B8_BC8D4ABCD1B5.posterURL = media/video_91B7277F_9D2D_B646_41E2_11968B8B7452_poster_en.jpg
-videolevel_888AD4AA_B3A7_222A_41D3_72F4A608AEF5.url = media/video_936C9F7D_9D2D_D64B_41C0_385B12CE73E1_en.mp4
-videolevel_888AD4AA_B3A7_222A_41D3_72F4A608AEF5.posterURL = media/video_936C9F7D_9D2D_D64B_41C0_385B12CE73E1_poster_en.jpg
-videolevel_8891E5F8_B3A7_2236_41DF_16A28EB65751.url = media/video_B7F2E8E6_A78A_D7E9_41D0_97DE66CC2B42_en.mp4
-videolevel_8891E5F8_B3A7_2236_41DF_16A28EB65751.posterURL = media/video_B7F2E8E6_A78A_D7E9_41D0_97DE66CC2B42_poster_en.jpg
-videolevel_889305C6_B3A7_225A_41E1_FF077B345E4E.url = media/video_C1FB9644_9F58_4C1A_41D5_D0B6ED44BCBD_en.mp4
-videolevel_889305C6_B3A7_225A_41E1_FF077B345E4E.posterURL = media/video_C1FB9644_9F58_4C1A_41D5_D0B6ED44BCBD_poster_en.jpg
+videolevel_8E1D9C08_B359_21D5_41C3_0034BB12D8BF.url = media/video_91895379_9D2D_CE4B_41D0_2C7AF2FB20CB_en.mp4
+videolevel_8E1D9C08_B359_21D5_41C3_0034BB12D8BF.posterURL = media/video_91895379_9D2D_CE4B_41D0_2C7AF2FB20CB_poster_en.jpg
+videolevel_8E199C90_B359_22F6_41D2_3130C4060E1B.url = media/video_91B540B6_9D2E_4AD9_41DB_C9845434123F_en.mp4
+videolevel_8E199C90_B359_22F6_41D2_3130C4060E1B.posterURL = media/video_91B540B6_9D2E_4AD9_41DB_C9845434123F_poster_en.jpg
+videolevel_8E1BDC5F_B359_226A_41A4_F0620B1B595F.url = media/video_91B70C41_9D2D_B9BA_41DC_6482D2E80674_en.mp4
+videolevel_8E1BDC5F_B359_226A_41A4_F0620B1B595F.posterURL = media/video_91B70C41_9D2D_B9BA_41DC_6482D2E80674_poster_en.jpg
+videolevel_8E1ABC2C_B359_222E_41C3_F34C75EAC3C5.url = media/video_91B7277F_9D2D_B646_41E2_11968B8B7452_en.mp4
+videolevel_8E1ABC2C_B359_222E_41C3_F34C75EAC3C5.posterURL = media/video_91B7277F_9D2D_B646_41E2_11968B8B7452_poster_en.jpg
+videolevel_8E1C0BD5_B359_267E_41C9_1060F4C8739C.url = media/video_936C9F7D_9D2D_D64B_41C0_385B12CE73E1_en.mp4
+videolevel_8E1C0BD5_B359_267E_41C9_1060F4C8739C.posterURL = media/video_936C9F7D_9D2D_D64B_41C0_385B12CE73E1_poster_en.jpg
+videolevel_8E245CF5_B359_223E_41BF_B0C8D9178638.url = media/video_B7F2E8E6_A78A_D7E9_41D0_97DE66CC2B42_en.mp4
+videolevel_8E245CF5_B359_223E_41BF_B0C8D9178638.posterURL = media/video_B7F2E8E6_A78A_D7E9_41D0_97DE66CC2B42_poster_en.jpg
+videolevel_8E26FCC5_B359_225F_4197_C2B52102BB72.url = media/video_C1FB9644_9F58_4C1A_41D5_D0B6ED44BCBD_en.mp4
+videolevel_8E26FCC5_B359_225F_4197_C2B52102BB72.posterURL = media/video_C1FB9644_9F58_4C1A_41D5_D0B6ED44BCBD_poster_en.jpg
 
 ## Skin
 
@@ -102,10 +103,6 @@ Image_A2DDCE14_9F49_DC3A_41CF_33FABB79F62F.url = skin/Image_A2DDCE14_9F49_DC3A_4
 Image_B431EABE_9EB8_4469_41D7_0F54C66278D9.url = skin/Image_B431EABE_9EB8_4469_41D7_0F54C66278D9_en.jpg
 Image_D957D97E_9FB8_44E9_41E2_7F69F9DDCEBA.url = skin/Image_D957D97E_9FB8_44E9_41E2_7F69F9DDCEBA_en.png
 Image_DC241D0C_9FB8_3C2A_41BA_28C01A0CA153.url = skin/Image_DC241D0C_9FB8_3C2A_41BA_28C01A0CA153_en.png
-
-### Label
-Label_22BB32F4_3075_D173_4191_C8B45B85DEB8_mobile.text = DOLOR SIT AMET, CONSECTETUR
-Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83_mobile.text = LOREM IPSUM
 
 ### Multiline Text
 HTMLText_1F95DE40_022E_7BF1_4170_16BB769D1510.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.370000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
